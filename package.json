@@ -1,0 +1,30 @@
+{
+  "name": "an-array-of-galician-words",
+  "version": "1.0.0",
+  "description": "List of ~687,000 Galician words",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "setup": "node setup.js",
+    "build": "node build.js",
+    "test": "node -e \"const words = require('.'); if (!Array.isArray(words)) throw new Error('Not an array'); console.log('OK: ' + words.length + ' words')\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PabloGGuizar/an-array-of-galician-words.git"
+  },
+  "keywords": [
+    "galician",
+    "galego",
+    "words",
+    "dictionary",
+    "array",
+    "language"
+  ],
+  "author": "Pablo G. Guízar",
+  "license": "(GPL-2.0-or-later OR LGPL-2.1-or-later OR MPL-1.1)",
+  "bugs": {
+    "url": "https://github.com/PabloGGuizar/an-array-of-galician-words/issues"
+  },
+  "homepage": "https://github.com/PabloGGuizar/an-array-of-galician-words#readme"
+}
