@@ -1,6 +1,6 @@
 # an-array-of-galician-words
 
-[🇬🇧 English](./README.md) · [🏴󠁥󠁳󠁧󠁡󠁿 Galego](./README.gl.md)
+[English](./README.md) · [Galego](./README.gl.md)
 
 [![Versión NPM](https://img.shields.io/npm/v/an-array-of-galician-words.svg)](https://www.npmjs.com/package/an-array-of-galician-words)
 
