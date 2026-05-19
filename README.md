@@ -11,7 +11,7 @@ Derived from the [LibreOffice Galician Hunspell dictionary](https://github.com/L
 (`[a-záàâãéêèíïóòôõúùûüçñ]`).
 
 Inspired by the architecture of [`an-array-of-english-words`](https://github.com/words/an-array-of-english-words)
-by [Titus Wormer](https://github.com/wooorm).
+by [Zeke Sikelianos](https://github.com/zeke).
 
 ## Install
 
@@ -65,7 +65,7 @@ node build.js    # Clean, filter and generate index.json
 ## Credits
 
 - **Linguistic data**: [LibreOffice dictionaries](https://github.com/LibreOffice/dictionaries/tree/master/gl)
-- **Architectural pattern**: [Titus Wormer (@wooorm)](https://github.com/wooorm) — [`an-array-of-english-words`](https://github.com/words/an-array-of-english-words)
+- **Architectural pattern**: [Zeke Sikelianos (@zeke)](https://github.com/zeke) — [`an-array-of-english-words`](https://github.com/words/an-array-of-english-words)
 
 ## License
 

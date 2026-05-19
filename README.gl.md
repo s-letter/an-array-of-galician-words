@@ -11,7 +11,7 @@ Derivada do [dicionario Hunspell galego de LibreOffice](https://github.com/Libre
 (`[a-záàâãéêèíïóòôõúùûüçñ]`).
 
 Inspirada na arquitectura de [`an-array-of-english-words`](https://github.com/words/an-array-of-english-words)
-de [Titus Wormer](https://github.com/wooorm).
+de [Zeke Sikelianos](https://github.com/zeke).
 
 ## Instalación
 
@@ -65,7 +65,7 @@ node build.js    # Limpa, filtra e xera index.json
 ## Créditos
 
 - **Datos lingüísticos**: [LibreOffice dictionaries](https://github.com/LibreOffice/dictionaries/tree/master/gl)
-- **Patrón arquitectónico**: [Titus Wormer (@wooorm)](https://github.com/wooorm) — [`an-array-of-english-words`](https://github.com/words/an-array-of-english-words)
+- **Patrón arquitectónico**: [Zeke Sikelianos (@zeke)](https://github.com/zeke) — [`an-array-of-english-words`](https://github.com/words/an-array-of-english-words)
 
 ## Licenza
 
